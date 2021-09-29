@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Yuzhuang&#39;s Curriculum Vitae</title>
+    <link>https://pyz1103.github.io/project/</link>
+      <atom:link href="https://pyz1103.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pyz1103.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://pyz1103.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Game Analysis and Decision Making research on pedestrian and Vehicle Traffic Conflict in Unsignalized Road Sections</title>
+      <link>https://pyz1103.github.io/project/chongqing-key-lab-of-traffic-system-safety-in-mountain-cities/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://pyz1103.github.io/project/chongqing-key-lab-of-traffic-system-safety-in-mountain-cities/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;To solve the problem of pedestrian-vehicle traffic conflict in unsignalized road sections, Cumulative-prospect-based
+Multiparty Conflict Game (CPMCG) was constructed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;By analyzing the interaction between pedestrians and vehicles, it is found that conformity effect has a great
+influence on pedestrians’ decision-making, which is introduced into the model.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It is found that the system can form four different evolution results, and the risk cost, conformity effect and other
+parameters have their own influence on the results.
+Chongqing Key Lab of Traffic System &amp;amp; Safety&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Simulation and Optimization Design of Passenger Distribution Behavior of Road Passenger Stations</title>
+      <link>https://pyz1103.github.io/project/big-data-and-transportation-network-analysis-lab/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://pyz1103.github.io/project/big-data-and-transportation-network-analysis-lab/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The phenomenon of mustering and evacuation of passengers and traffic characteristics in road passenger terminals
+are quantitatively analyzed to provide parameter support for pedestrian simulation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Massmotion software is used to simulate passenger terminals and find bottleneck points of traffic flow in stations by
+analyzing pedestrian indicators such as flow, per capita density and speed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Optimization measures were put forward to improve the service capacity of functional areas by 41.20 %, increase
+the walking speed by 9.01 %, and shorten the stay time of passengers by 30.44 %.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
